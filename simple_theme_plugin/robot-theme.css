@@ -1,9 +1,9 @@
-
-r: #4f7b94; }
+h1, h2, h3, h4, h5, h6 {
+  color: #4f7b94; }
 
 #top-panel {
   background: none; 
-  background-color: black;}
+  background-color: white;}
   #top-panel td#login-field span a {
     background: none; }
   #top-panel td #searchform a {
@@ -11,7 +11,7 @@ r: #4f7b94; }
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("http://rawgithub.com/nicopaez/jenkins-stuff/master/simple_theme_plugin/alfred.png") 0 0 no-repeat;
+    background: url("http://rawgithub.com/nicopaez/jenkins-stuff/master/simple_theme_plugin/robot.png") 0 0 no-repeat;
     display: block;
     width: 130px;
     height: 40px;
